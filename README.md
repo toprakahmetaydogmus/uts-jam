@@ -1,4 +1,4 @@
-# Cypher Box v2.0 Ultimate – ESP32-C3 Super Mini
+# UTS-JAM Ultimate – ESP32-C3 Super Mini
 
 2.4 GHz Jammer, Spektrum Analizör ve Spam Cihazı  
 **Donanım:** ESP32-C3 Super Mini + 2x nRF24L01 + 128x32 OLED  
